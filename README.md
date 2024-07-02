@@ -8,7 +8,7 @@
 * Create an Angular Application based off of [CoreUI admin template](https://coreui.io/product/free-angular-admin-template/)
 * Must use Angular 17 (**NOT** 18)
 * Setup Nx with Jasmine+Karma and Cypress
-* Update the project to ensure 80+% unit test coverage
+* Update the project to ensure 80+% unit test coverage (for only the code you have written. Don't write any tests for existing  code in CoreUI template.)
 ### Features/Use cases
 > [!Note]
 > It's obvious, from expected effort (<3 hrs), that we are not looking for completeness of features. When we will pair program with you and go over the code, we will discuss your approach and decisions to implement a particular features. We would love to see at least one form is implemented with e2e functionality. Don't add more than 1-2 fields to forms. Assume as many things as possible and implement the features as you understand them.
