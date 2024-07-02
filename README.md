@@ -10,7 +10,8 @@
 * Setup Nx with Jasmine+Karma and Cypress
 * Update the project to ensure 80+% unit test coverage
 ### Features/Use cases
-> [!Note] It's obvious, from expected effort (<3 hrs), that we are not looking for completeness of features. When we will pair program with you and go over the code, we will discuss your approach and decisions to implement a particular features. We would love to see at least one form is implemented with e2e functionality. Don't add more than 1-2 fields to forms. Assume as many things as possible and implement the features as you understand them.
+> [!Note]
+> It's obvious, from expected effort (<3 hrs), that we are not looking for completeness of features. When we will pair program with you and go over the code, we will discuss your approach and decisions to implement a particular features. We would love to see at least one form is implemented with e2e functionality. Don't add more than 1-2 fields to forms. Assume as many things as possible and implement the features as you understand them.
 * Update the initial CoreUI template so as to behave like a multi-tenant SaaS application used by multiple schools (Primary to Secondary) (You can implement school selection by giving a drop-down in header)
 * Remove CoreUI logo and use a custom logo of your choice for the app.
 * Create forms to store (locally) Class, Subject, and Student information.
